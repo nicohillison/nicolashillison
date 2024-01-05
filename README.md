@@ -4,9 +4,9 @@
 I'm Nicolas Hillison from San Francsico, CA. I just graduated from Colby College, one of one of the premier liberal arts schools in the nation, with a major in computer science and a minor in statistics. I enjoy learning coding languages and libraries that are strongly correlated to data analytics and visualizations.
 
 ## Skills and Experience
-  💻 R, SQL, Python, HTML, JS
-  📊 Excell
-  📂 Matplotlib, Pandas, NumPy, SciPy, Shiny
+- 💻 R, SQL, Python, HTML, JS
+- 📊 Excell
+- 📂 Matplotlib, Pandas, NumPy, SciPy, Shiny
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nicohillison)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nicolashillison/)  
 
