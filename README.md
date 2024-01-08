@@ -17,6 +17,8 @@ I'm Nicolas Hillison from San Francsico, CA. I just graduated from Colby College
   - Owning a Bird (*Spring 2022*): Analyzed the correlation amongst data sets predicting if lung cancer patients were apt to own a bird. Here is the repository for this project: https://github.com/nicohillison/Owning-a-Bird.
   - The Effects of Exercise on Happiness (*Fall 2021*): Performed a preliminary analysis by creating a statistical model that would help figure out if Colby College students who exercised regularly are happier than those who do not. Here is the repository for this project: https://github.com/nicohillison/Exercise-vs-Happiness.
 - **SQL**:
+  
+
   - 
 
 
