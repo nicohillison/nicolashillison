@@ -23,6 +23,10 @@ I'm Nicolas Hillison from San Francsico, CA. I just graduated from Colby College
   - Interactive Dashboard (*Summer 2023*): Created several dashboards and individual graphs using the JavaScript library ApexCharts and a random dataset that would be interactive with the user in a private browser. Here is the repository for this project: https://github.com/nicohillison/Data-Dashboards-With-ApexCharts.
 
 ## Experience
+**DataIris**, *Palo Alto, CA*                                                                                                                  **Summer 2023**
+  - Created data-driven visualizations using JavaScript libraries for an Artificial Intelligence venture-funded startup.
+
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nicohillison)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nicolashillison/)  
 
