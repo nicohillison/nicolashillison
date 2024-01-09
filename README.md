@@ -24,23 +24,29 @@ I'm Nicolas Hillison from San Francsico, CA. I just graduated from Colby College
 
 ## Experience
 **DataIris**, *Palo Alto, CA* **(Summer 2023)**
-  - *Data Analyst Intern*: Created data-driven visualizations using JavaScript libraries that were later presented in meetings for the company, an Artificial Intelligence venture-funded startup.
+*Data Analyst Intern*
+  - Created data-driven visualizations using JavaScript libraries that were later presented in meetings for the company, an Artificial Intelligence venture-funded startup.
 
 **Moden Primitive Media**, *New York, NY* **(Summer 2023)**
-  - *Business Development Intern*: Researched target companies and contacts for sales pursuits and business development.
+*Business Development Intern*
+  - Researched target companies and contacts for sales pursuits and business development.
 
 **Colby College**, *Waterville, ME* **(Fall 2021-2023)**
-  - *Teacher Assistant and Grader*: Mentored Students to improve their data analysis and visualization skills in Python.
+*Teacher Assistant and Grader*
+  - Mentored Students to improve their data analysis and visualization skills in Python.
 
-**Presido Classics**, *San Francisco, CA* **Winter 2021**
-  - *Worker*: Product assembly and inventory management.
+**Presido Classics**, *San Francisco, CA* **(Winter 2021)**
+*Worker*
+  - Product assembly and inventory management.
 
-**Entrypoint1**, *San Francisco, CA* **Fall 2020**
-  - *Competitive Analysis Intern*: Created data-driven spreadsheet models to capture competitive analyses and customer feedback for B2B SaaS clients.
+**Entrypoint1**, *San Francisco, CA* **(Fall 2020)**
+*Competitive Analysis Intern*
+  - Created data-driven spreadsheet models to capture competitive analyses and customer feedback for B2B SaaS clients.
 
-**YMCA**, *San Francisco, CA* **Winter 2016-2019**
-  - *Basketball Referee*: Helped refereeing kids from kindergarten-3rd grade.
-  - *Lifeguard*
+**YMCA**, *San Francisco, CA* **(Winter 2016-2019)**
+*Basketball Referee*
+  - Helped refereeing kids from kindergarten-3rd grade.
+*Lifeguard*
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nicohillison)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nicolashillison/)  
