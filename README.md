@@ -20,7 +20,7 @@ I'm Nicolas Hillison from San Francsico, CA. I just graduated from Colby College
   - Social News Aggregator (*Summer 2022*): Using semantic analysis, identified misinformation and disinformation from social media feeds by creating a schema. Here is the repository for this project: https://github.com/nicohillison/Social-News-Aggregator/tree/main.
   - Deforestation Exploration (*Summer 2022*): Conducted “what-if” analysis on global forest datasets to determine environmental impacts around the world from 1990 to 2016. Here is the repository for this project: https://github.com/nicohillison/Deforestation-Exploration/tree/main.
 - **HTML/JS**:
-  - Interactive Dashboard (*Summer 2023*): Created several dashboards and individual graphs using the JavaScript library ApexCharts and a random dataset that would be interactive with the user in a private browser. Here is the repository for this project: https://github.com/nicohillison/Data-Dashboards-With-ApexCharts.
+  - Interactive Dashboard (*Summer 2023*): Developed interactive dashboards and individual graphs utilizing the JavaScript library ApexCharts. These visualizations were crafted with a dynamic, user-friendly interface, and they were populated with a randomized dataset. The interactivity was designed to enhance user engagement within a secure, private browser environment. Here is the repository for this project: https://github.com/nicohillison/Data-Dashboards-With-ApexCharts.
 
 ## Experience
 **DataIris**, *Palo Alto, CA* **(Summer 2023)**
