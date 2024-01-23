@@ -27,7 +27,7 @@ I'm Nicolas Hillison from San Francisco, CA. I just graduated from Colby College
 - *Data Analyst Intern*
   - Created data-driven visualizations using JavaScript libraries that were later presented in meetings for the company, an Artificial Intelligence venture-funded startup.
 
-**Moden Primitive Media**, *New York, NY* **(Summer 2023)**
+**Modern Primitive Media**, *New York, NY* **(Summer 2023)**
 - *Business Development Intern*
   - Researched target companies and contacts for sales pursuits and business development.
 
