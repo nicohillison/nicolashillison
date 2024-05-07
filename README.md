@@ -19,6 +19,8 @@ I'm Nicolas Hillison from San Francisco, CA. I just graduated from Colby College
   - Deforestation Exploration (*Summer 2022*): Conducted “what-if” analysis on global forest datasets to determine environmental impacts around the world from 1990 to 2016. Here is the repository for this project: https://github.com/nicohillison/Deforestation-Exploration/tree/main.
 - **HTML/JS**:
   - Interactive Dashboard (*Summer 2023*): Developed interactive dashboards and individual graphs utilizing the JavaScript library ApexCharts. These visualizations were crafted with a dynamic, user-friendly interface, and they were populated with a randomized dataset. The interactivity was designed to enhance user engagement within a secure, private browser environment. Here is the repository for this project: https://github.com/nicohillison/Data-Dashboards-With-ApexCharts.
+- **Python**:
+  - Data Analytics and Visualization (*Spring 2021*): Created a Python class called Data that will extract data from a CSV file. Then, I used the numpy Python library to perform computations on numeric data, selected and organized by variable name and used the matplotlib Python library to create various visualizations. Lastly, I used the tools I implemented to analyze a real-world dataset of my choice. I practiced common operations that will come up throughout my data analytics career. Here is the repository for this project: https://github.com/nicohillison/Data-Analysis-and-Visualization.
 
 ## Experience
 **Aerendir Mobile Inc.**, *San Francisco, CA* **(Present)**
