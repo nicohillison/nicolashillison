@@ -21,8 +21,8 @@ I'm Nicolas Hillison from San Francisco, CA. I just graduated from Colby College
 - **HTML/JS**:
   - Interactive Dashboard (*Summer 2023*): Developed interactive dashboards and individual graphs utilizing the JavaScript library ApexCharts. These visualizations were crafted with a dynamic, user-friendly interface, and they were populated with a randomized dataset. The interactivity was designed to enhance user engagement within a secure, private browser environment. Here is the repository for this project: https://github.com/nicohillison/Data-Dashboards-With-ApexCharts.
 - **Python**:
-  - Data Analytics and Visualization (*Spring 2021*): Created a Python class called Data that will extract data from a CSV file. Then, I used the numpy Python library to perform computations on numeric data, selected and organized by variable name and used the matplotlib Python library to create various visualizations. Lastly, I used the tools I implemented to analyze a real-world dataset of my choice. I practiced common operations that will come up throughout my data analytics career. Here is the repository for this project: https://github.com/nicohillison/Data-Analysis-and-Visualization.
-  - Categorical and Exploratory Data Analysis (*Spring 2021*): Running statistical analyses and plotting Numpy ndarray data by reading CSV files, storing data, as well as accessing and filtering data by variable name. This led to be able to perform projects, translations, rotations, and scaling operations on Numpy ndarray data. Here is the repository for this project: https://github.com/nicohillison/Categorical-and-Exploratory-Data-Analysis.
+  - Data Analytics and Visualization (*Spring 2021*): Created a Python class called Data that will extract data from a CSV file. Then, I used the numpy Python library to perform computations on numeric data, selected and organized by variable name, and used the matplotlib Python library to create various visualizations. Lastly, I used the tools I implemented to analyze a real-world dataset of my choice. I practiced common operations that will come up throughout my data analytics career. Here is the repository for this project: https://github.com/nicohillison/Data-Analysis-and-Visualization.
+  - Categorical and Exploratory Data Analysis (*Spring 2021*): Running statistical analyses and plotting Numpy ndarray data by reading CSV files, storing data, as well as accessing and filtering data by variable name. This led to being able to perform projects, translations, rotations, and scaling operations on Numpy ndarray data. Here is the repository for this project: https://github.com/nicohillison/Categorical-and-Exploratory-Data-Analysis.
   - Linear Regression (*Spring 2021*): implement an analysis pipeline to apply and interpret linear regression on Iris and other datasets. Here is the repository for this project: https://github.com/nicohillison/Linear-Regression.
   - Clustering and Image Segmentation (*Spring 2021*): Implementing the K-means clustering algorithm for clustering data (performing unsupervised learning). Testing and plotting K-means clusters with a simple 2D dataset, then using the algorithm to compress the colorspace of images and segment regions with similar colors. Here is the repository for this project: https://github.com/nicohillison/Clustering.
   - Spam Email Classification (*Spring 2021*): Implementing an email spam filter to determine whether an email is spam (spam) or not (ham). This is done by implementing and comparing the performance of two supervised learning algorithms: K Nearest Neighbors (KNN) and Naive Bayes. Working with the Enron spam email dataset (~34,000 emails). After training the classifiers on the email data, I used the models to predict whether the new email was spam or ham. Here is the repository for this project: https://github.com/nicohillison/Spam-Email-Classification.
@@ -45,13 +45,13 @@ I'm Nicolas Hillison from San Francisco, CA. I just graduated from Colby College
 - *Teacher Assistant and Grader*
   - Mentored Students to improve their data analysis and visualization skills in Python.
 
+**Entrypoint1**, *San Francisco, CA* **(Summer 2022)**
+- *Competitive Analysis Intern*
+  - Created data-driven spreadsheet models to capture competitive analyses and customer feedback for B2B SaaS clients.
+
 **Presido Classics**, *San Francisco, CA* **(Winter 2021)**
 - *Worker*
   - Product assembly and inventory management.
-
-**Entrypoint1**, *San Francisco, CA* **(Fall 2020)**
-- *Competitive Analysis Intern*
-  - Created data-driven spreadsheet models to capture competitive analyses and customer feedback for B2B SaaS clients.
 
 **YMCA**, *San Francisco, CA* **(Winter 2016-2019)**
 - *Basketball Referee*
